@@ -1,8 +1,19 @@
 import React from 'react';
+import HeroPage from './components/HeroPage/HeroPage';
+import AboutPage from './components/AboutPage/AboutPage';
+import ContactPage from './components/ContactPage/ContactPage';
+
+
+
+
 
 function App() {
   return (
-    <h1>Hello world!</h1>
+    <>
+      <HeroPage/>
+      <AboutPage/>
+      <ContactPage/>
+    </>
   );
 }
 

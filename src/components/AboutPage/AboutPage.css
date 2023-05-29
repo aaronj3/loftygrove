@@ -1,0 +1,32 @@
+.about-page-container{
+    background-color:white;
+    height: 110vh;
+    display: flex;
+}
+
+* {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: 'Inter';
+    font-weight: 800;
+}
+
+.header-text {
+    font-size: 200px;
+    font-family: Inter;
+}
+
+.period {
+    color: #F7A702;
+
+}
+
+.body-text {
+    font-size: 40px;
+    display: flex;
+    font-family: Inter ;
+    justify-content: baseline;
+    align-items: flex-end;
+    /* margin-right: 2px; */
+    padding-left: 48px;
+    padding-bottom: 160px;
+}
