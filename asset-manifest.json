@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/loftygrove.github.io/static/css/main.bcb8e28d.css",
-    "main.js": "/loftygrove.github.io/static/js/main.59ec3c76.js",
-    "static/media/lamps.svg": "/loftygrove.github.io/static/media/lamps.3f1f2ed58af77a44fdb3efc7b23dafad.svg",
-    "static/media/bigsur.svg": "/loftygrove.github.io/static/media/bigsur.79c7435cbea8a197d177418f99b48386.svg",
-    "static/media/tennis.svg": "/loftygrove.github.io/static/media/tennis.7711dcec6a1e1b10e3ce1403027dcb21.svg",
-    "static/media/blur.svg": "/loftygrove.github.io/static/media/blur.185f399a83dd40e9ca4eaa4039daaaa4.svg",
-    "static/media/gameboy.svg": "/loftygrove.github.io/static/media/gameboy.363deb75431208986ed6cda763887db2.svg",
-    "static/media/horse.svg": "/loftygrove.github.io/static/media/horse.16e2375ea0a000eec229386a8939e9d7.svg",
-    "static/media/Inter-ExtraBold.ttf": "/loftygrove.github.io/static/media/Inter-ExtraBold.e4f33c213728ecf55b57.ttf",
-    "static/media/Inter-Bold.ttf": "/loftygrove.github.io/static/media/Inter-Bold.9aab1ebe6bd16660e37e.ttf",
-    "static/media/Inter-Regular.ttf": "/loftygrove.github.io/static/media/Inter-Regular.b559a93b35af397f4b6f.ttf",
-    "static/media/climber.svg": "/loftygrove.github.io/static/media/climber.1fa3e53152301aae659fef8216bf059a.svg",
-    "static/media/biggreen.svg": "/loftygrove.github.io/static/media/biggreen.2546564ce6a86fac505e4a0c76f7209e.svg",
-    "static/media/wurli.svg": "/loftygrove.github.io/static/media/wurli.6942bc7c743f68a24c5671bf40472532.svg",
-    "static/media/objects.svg": "/loftygrove.github.io/static/media/objects.1304b85d320e8c3b0a59874a605161c9.svg",
-    "static/media/couples.svg": "/loftygrove.github.io/static/media/couples.9799c2ecc6617ce3e6297231121b8a31.svg",
-    "index.html": "/loftygrove.github.io/index.html",
-    "main.bcb8e28d.css.map": "/loftygrove.github.io/static/css/main.bcb8e28d.css.map",
-    "main.59ec3c76.js.map": "/loftygrove.github.io/static/js/main.59ec3c76.js.map"
+    "main.css": "./static/css/main.987fc9b8.css",
+    "main.js": "./static/js/main.d338b6d0.js",
+    "static/media/lamps.svg": "./static/media/lamps.3f1f2ed58af77a44fdb3efc7b23dafad.svg",
+    "static/media/bigsur.svg": "./static/media/bigsur.79c7435cbea8a197d177418f99b48386.svg",
+    "static/media/tennis.svg": "./static/media/tennis.7711dcec6a1e1b10e3ce1403027dcb21.svg",
+    "static/media/blur.svg": "./static/media/blur.185f399a83dd40e9ca4eaa4039daaaa4.svg",
+    "static/media/gameboy.svg": "./static/media/gameboy.363deb75431208986ed6cda763887db2.svg",
+    "static/media/horse.svg": "./static/media/horse.16e2375ea0a000eec229386a8939e9d7.svg",
+    "static/media/Inter-ExtraBold.ttf": "./static/media/Inter-ExtraBold.e4f33c213728ecf55b57.ttf",
+    "static/media/Inter-Bold.ttf": "./static/media/Inter-Bold.9aab1ebe6bd16660e37e.ttf",
+    "static/media/Inter-Regular.ttf": "./static/media/Inter-Regular.b559a93b35af397f4b6f.ttf",
+    "static/media/climber.svg": "./static/media/climber.1fa3e53152301aae659fef8216bf059a.svg",
+    "static/media/biggreen.svg": "./static/media/biggreen.2546564ce6a86fac505e4a0c76f7209e.svg",
+    "static/media/wurli.svg": "./static/media/wurli.6942bc7c743f68a24c5671bf40472532.svg",
+    "static/media/objects.svg": "./static/media/objects.1304b85d320e8c3b0a59874a605161c9.svg",
+    "static/media/couples.svg": "./static/media/couples.9799c2ecc6617ce3e6297231121b8a31.svg",
+    "index.html": "./index.html",
+    "main.987fc9b8.css.map": "./static/css/main.987fc9b8.css.map",
+    "main.d338b6d0.js.map": "./static/js/main.d338b6d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcb8e28d.css",
-    "static/js/main.59ec3c76.js"
+    "static/css/main.987fc9b8.css",
+    "static/js/main.d338b6d0.js"
   ]
 }
