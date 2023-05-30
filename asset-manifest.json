@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/loftygrove.github.io/static/css/main.bcb8e28d.css",
+    "main.css": "/loftygrove.github.io/static/css/main.3a769a4b.css",
     "main.js": "/loftygrove.github.io/static/js/main.59ec3c76.js",
     "static/media/lamps.svg": "/loftygrove.github.io/static/media/lamps.3f1f2ed58af77a44fdb3efc7b23dafad.svg",
     "static/media/bigsur.svg": "/loftygrove.github.io/static/media/bigsur.79c7435cbea8a197d177418f99b48386.svg",
@@ -17,11 +17,11 @@
     "static/media/objects.svg": "/loftygrove.github.io/static/media/objects.1304b85d320e8c3b0a59874a605161c9.svg",
     "static/media/couples.svg": "/loftygrove.github.io/static/media/couples.9799c2ecc6617ce3e6297231121b8a31.svg",
     "index.html": "/loftygrove.github.io/index.html",
-    "main.bcb8e28d.css.map": "/loftygrove.github.io/static/css/main.bcb8e28d.css.map",
+    "main.3a769a4b.css.map": "/loftygrove.github.io/static/css/main.3a769a4b.css.map",
     "main.59ec3c76.js.map": "/loftygrove.github.io/static/js/main.59ec3c76.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcb8e28d.css",
+    "static/css/main.3a769a4b.css",
     "static/js/main.59ec3c76.js"
   ]
 }
