@@ -1,13 +1,15 @@
 import React, { useState } from 'react'
 
 import image1 from '../../assets/images/Subtract-6.png'
+import image2 from '../../assets/images/Subtract.svg'
 import './Window.css'
 
 
 function WindowSlideShow() {
     const [currentImage, setCurrentImage] = useState(0);
     let images = [
-        image1
+        image1,
+        image2
     ]
 
     const nextImage = () => {

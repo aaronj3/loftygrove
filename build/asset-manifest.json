@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb828972.css",
-    "main.js": "/static/js/main.4ad39fb8.js",
-    "static/media/Inter-ExtraBold.ttf": "/static/media/Inter-ExtraBold.e4f33c213728ecf55b57.ttf",
-    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.9aab1ebe6bd16660e37e.ttf",
-    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.b559a93b35af397f4b6f.ttf",
-    "static/media/Subtract-6.png": "/static/media/Subtract-6.85f73625831f542d3c68.png",
-    "index.html": "/index.html",
-    "main.bb828972.css.map": "/static/css/main.bb828972.css.map",
-    "main.4ad39fb8.js.map": "/static/js/main.4ad39fb8.js.map"
+    "main.css": "/www.loftygrove.com/static/css/main.d7d7564d.css",
+    "main.js": "/www.loftygrove.com/static/js/main.11c8a4d7.js",
+    "static/media/Subtract.svg": "/www.loftygrove.com/static/media/Subtract.7711dcec6a1e1b10e3ce1403027dcb21.svg",
+    "static/media/Inter-ExtraBold.ttf": "/www.loftygrove.com/static/media/Inter-ExtraBold.e4f33c213728ecf55b57.ttf",
+    "static/media/Inter-Bold.ttf": "/www.loftygrove.com/static/media/Inter-Bold.9aab1ebe6bd16660e37e.ttf",
+    "static/media/Inter-Regular.ttf": "/www.loftygrove.com/static/media/Inter-Regular.b559a93b35af397f4b6f.ttf",
+    "static/media/Subtract-6.png": "/www.loftygrove.com/static/media/Subtract-6.85f73625831f542d3c68.png",
+    "index.html": "/www.loftygrove.com/index.html",
+    "main.d7d7564d.css.map": "/www.loftygrove.com/static/css/main.d7d7564d.css.map",
+    "main.11c8a4d7.js.map": "/www.loftygrove.com/static/js/main.11c8a4d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb828972.css",
-    "static/js/main.4ad39fb8.js"
+    "static/css/main.d7d7564d.css",
+    "static/js/main.11c8a4d7.js"
   ]
 }
