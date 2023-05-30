@@ -1,6 +1,6 @@
 {
   "name": "webpage",
-  "homepage": "www.loftygrove.com",
+  "homepage": "loftygrove.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
